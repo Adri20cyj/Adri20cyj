@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Adri20cyj/Adri20cyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Sistemas (Top 10% de la carrera) con interés en **desarrollo de software**, **machine learning**, **bases de datos** y **análisis algorítmico**. Actualmente estoy fortaleciendo mis habilidades a través de proyectos académicos y personales donde aplico buenas prácticas, estructuras de datos y herramientas modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 ¿En qué estoy trabajando?
+
+- 🗂️ **Base de datos relacional de Airbnb** usando Oracle SQL y SQLite (ERD, triggers, vistas).
+- 📚 Aprendiendo más sobre estructuras de datos, OOP y patrones básicos de diseño.
+
+---
+**Lenguajes:**  
+- Python  
+- Java
+
+
+✨ *Gracias por visitar mi perfil. Siempre estoy aprendiendo y construyendo cosas nuevas.*  
