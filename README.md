@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Soy estudiante de Ingeniería de Sistemas (Top 10% de la carrera) con interés en **desarrollo de software**, **machine learning**, **bases de datos** y **análisis algorítmico**. Actualmente estoy fortaleciendo mis habilidades a través de proyectos académicos y personales donde aplico buenas prácticas, estructuras de datos y herramientas modernas.
+Soy Adriana, estudiante de Ingeniería de Sistemas (Top 10% de la carrera) con interés en **desarrollo de software** y **machine learning**. Actualmente estoy fortaleciendo mis habilidades a través de proyectos académicos y personales.
 
 ---
 
